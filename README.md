@@ -62,7 +62,6 @@
 <a href = "https://twitter.com/Ritam_0102"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ritam_samanta_0102/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/RITAM.92317"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCSsIXUb8oWryPJReZ_8vDxA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://t.me/RITAM_23"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
 
 </p>
